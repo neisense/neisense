@@ -7,7 +7,7 @@ nei from the icelandic term meaning "no" / sense from the latin term sensus mean
 
 -----
 
-@@ heavy interest in lowlevel/hacking/linux @@
+@@ interested in lowlevel/hacking/linux @@
 @@ contact me with any opportunities! @@
 
 ```
